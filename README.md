@@ -1,4 +1,4 @@
-# Future Ready Talent Project(frt) by Shubham Prusty
+## Future Ready Talent Project(frt) by Shubham Prusty
 Introducing my salad store: a haven for health-conscious individuals. Discover a wide selection of delicious, nutrient-packed salads at unbeatable prices. Every bite is a celebration of organic ingredients, nurturing your well-being. Embrace a vibrant life with our affordable, organic salads.
 
 # My Website Link: https://agreeable-desert-0eeba2310.3.azurestaticapps.net/
